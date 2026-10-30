@@ -52,7 +52,6 @@ Reveille and Courier have Android apps too (see above).
 | --- | --- |
 | [Leeromgeving](https://github.com/Shamilimanuel/Leeromgeving-) | A study site for Dutch VMBO students: summaries, flashcards with spaced repetition and a practice game. The app is in Dutch. |
 | [Akasha Terminal](https://github.com/Shamilimanuel/Akasha-Terminal) | A night-and-gold dashboard for a Genshin Impact account: daily routine, wish counter, roster and an artifact lab. |
-| [VPN prototype (Windveil)](https://github.com/Shamilimanuel/VPN-prototype) | A clickable design prototype for a privacy VPN app, plus a page of feature ideas. A prototype only: it is not a working VPN. |
 | [Irminsul](https://github.com/Shamilimanuel/Irminsul) | A night-blue, cream and gold theme for VS Code, with the seven elements as colours. |
 | [Genshin Quick View](https://github.com/Shamilimanuel/genshin-quick-view) | A tiny VS Code add-on: one click in the status bar opens the Genshin interactive map or wiki. |
 
