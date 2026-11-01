@@ -1,0 +1,40 @@
+# Daily update for the profile README.
+# Runs tools/update.py once a day (and on demand from the Actions tab), then saves a commit ONLY if something changed.
+# No secrets: it uses the temporary token GitHub hands to every run, and nothing else.
+name: Update profile
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # every day at 03:17 UTC (a quiet minute; GitHub can run it a little late)
+  workflow_dispatch:        # lets you press "Run workflow" yourself
+
+permissions:
+  contents: write           # the only permission: save the changed pictures and README
+
+concurrency:
+  group: profile-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rebuild the moving parts
+        run: python3 tools/update.py
+        env:
+          GITHUB_TOKEN: ${{ github.token }}   # read-only use: asks GitHub for your public repos and activity
+
+      - name: Save only if something changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing changed, nothing saved."
+          else
+            git commit -m "Daily profile update"
+            git push
+          fi

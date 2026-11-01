@@ -1,0 +1,77 @@
+{
+  "_about": "This file is PUBLIC. Edit the values below and the daily workflow does the rest. Only write things you would say out loud: no passwords, no real names of other people, nothing from private notes. 'public' is only a fallback: every day the script asks GitHub which repos are really public and uses that. A repo that is private shows its card without a link and is left out of the spotlight.",
+  "user": "Shamilimanuel",
+
+  "now": [
+    {
+      "app": "Tsukimi",
+      "icon": "art/tsukimi.png",
+      "text": "my own photo viewer, in a calm *Moonlight* look. Open a photo, zoom, flick to the next one, and nothing else gets in the way. It is the app I already use instead of Windows Photos.",
+      "status": "Not public yet."
+    },
+    {
+      "app": "Haravatat",
+      "icon": "art/haravatat.png",
+      "text": "my own native notepad, in a *Sumeru scholar* look: deep green night, gold, and a leaf of lime. A quick, tidy replacement for Windows Notepad.",
+      "status": "Not public yet."
+    }
+  ],
+
+  "levelling": [
+    { "name": "Python", "level": 9, "max": 20 },
+    { "name": "JavaScript", "level": 6, "max": 20 },
+    { "name": "Git", "level": 7, "max": 20 },
+    { "name": "Kotlin", "level": 4, "max": 20 },
+    { "name": "Reading error messages", "level": 12, "max": 20 }
+  ],
+
+  "notes": [
+    "Every big app starts as|one ugly button.",
+    "Night is just daytime|with better lighting.",
+    "Ship the small thing.|Polish it tomorrow.",
+    "A tidy folder is a|waypoint you can trust.",
+    "Ask twice before|you delete anything.",
+    "Read the error message.|It is usually right.",
+    "Make it work first.|Then make it pretty.",
+    "A good name saves|an hour of explaining.",
+    "Back up first.|Then be brave.",
+    "Learn one small thing|every single day.",
+    "Small apps, big feelings.|Pick one and finish it.",
+    "Dark mode is not a setting.|It is a way of life."
+  ],
+
+  "apps": [
+    { "id": "waypoint", "name": "Waypoint", "repo": "Waypoint", "el": "geo", "stars": 5, "kind": "FILE MANAGER", "icon": "waypoint", "line": "A file manager that plays like a Genshin menu." },
+    { "id": "leyline", "name": "Leyline", "repo": "Leyline", "el": "electro", "stars": 5, "kind": "TASK MANAGER", "icon": "leyline", "line": "Your running programs, as a party." },
+    { "id": "toolbelt", "name": "Toolbelt", "repo": "Toolbelt", "el": "geo", "stars": 5, "kind": "TOOLKIT", "icon": "toolbelt", "line": "Every tool I used to need a website for." },
+    { "id": "reveille", "name": "Reveille", "repo": "Reveille", "el": "pyro", "stars": 5, "kind": "PHONE + PC", "icon": "reveille", "line": "Wake or shut down my PC from my phone." },
+    { "id": "akasha", "name": "Akasha Terminal", "repo": "Akasha-Terminal", "el": "cryo", "stars": 4, "kind": "DASHBOARD", "icon": null, "line": "A calm dashboard for my Genshin account." },
+    { "id": "courier", "name": "Courier", "repo": "Courier", "el": "anemo", "stars": 4, "kind": "TRANSFER", "icon": "courier", "line": "Text, clipboard and files between my devices." },
+    { "id": "housecall", "name": "Housecall", "repo": "Housecall", "el": "hydro", "stars": 4, "kind": "PC REPAIR", "icon": "housecall", "line": "Finds and fixes PC problems. Looks first." },
+    { "id": "launcher", "name": "Seelie", "repo": "Launcher", "el": "dendro", "stars": 4, "kind": "ANDROID", "icon": "launcher", "line": "My own Android home screen, written in Kotlin." }
+  ],
+
+  "projects": [
+    { "group": "Apps (Windows)", "name": "Waypoint", "repo": "Waypoint", "public": false, "what": "A Genshin-inspired file manager: drives are \"levels\", folders are waypoints, and the Recycle Bin is called Salvage. Has a disk map and live backgrounds." },
+    { "group": "Apps (Windows)", "name": "Leyline", "repo": "Leyline", "public": false, "what": "A task manager where your programs are a party and the heavy ones get a \"boss fight\" banner. Also a game overlay and a disk map." },
+    { "group": "Apps (Windows)", "name": "Toolbelt", "repo": "Toolbelt", "public": true, "what": "One app for the everyday things I would otherwise need a dozen websites for. Everything runs on your own PC." },
+    { "group": "Apps (Windows)", "name": "Housecall", "repo": "Housecall", "public": false, "what": "Finds and fixes computer problems. It only looks until you say yes, and nothing is installed." },
+    { "group": "Apps (Windows)", "name": "Courier", "repo": "Courier", "public": true, "what": "Send text, clipboard and files between your own devices over your own Wi-Fi: no cloud, no account. PC, desktop and Android apps." },
+    { "group": "Apps (Windows)", "name": "Reveille", "repo": "Reveille", "public": true, "what": "Start, shut down, restart, sleep and lock your computer from your phone, over home Wi-Fi." },
+    { "group": "Widgets (small Windows helpers)", "name": "Terminal", "repo": "Terminal", "public": true, "what": "A custom look for Windows Terminal and PowerShell: a see-through theme, a welcome screen, live PC status and short commands." },
+    { "group": "Widgets (small Windows helpers)", "name": "Clipboard", "repo": "Clipboard", "public": true, "what": "A clipboard history: copy as usual, press a hotkey, pick any earlier clip." },
+    { "group": "Widgets (small Windows helpers)", "name": "Snipper", "repo": "Snipper", "public": true, "what": "A snipping tool with a text reader built in: drag a box, mark it up, or copy the words out of a picture." },
+    { "group": "Widgets (small Windows helpers)", "name": "Custom Clock", "repo": "Custom-Clock", "public": true, "what": "A two-line clock for the Windows 11 taskbar: date and time on top, CPU, GPU, RAM or media below." },
+    { "group": "Widgets (small Windows helpers)", "name": "Crosshairs", "repo": "Crosshairs", "public": false, "what": "A see-through, click-through crosshair overlay for your games, with a separate save for each game." },
+    { "group": "Android", "name": "Launcher (Seelie)", "repo": "Launcher", "public": true, "what": "An Android home-screen launcher with live wallpapers, an A-Z app list, a night screen and a PIN vault. Written in Kotlin.", "after": "Reveille and Courier have Android apps too (see above)." },
+    { "group": "Web, study and code editor", "name": "Leerlantaarn (was Leeromgeving)", "repo": "Leerlantaarn", "public": false, "what": "A study site for Dutch VMBO students: summaries, flashcards with spaced repetition and a practice game. The app is in Dutch." },
+    { "group": "Web, study and code editor", "name": "Akasha Terminal", "repo": "Akasha-Terminal", "public": true, "what": "A night-and-gold dashboard for a Genshin Impact account: daily routine, wish counter, roster and an artifact lab." },
+    { "group": "Web, study and code editor", "name": "Irminsul", "repo": "Irminsul", "public": true, "what": "A night-blue, cream and gold theme for VS Code, with the seven elements as colours." }
+  ],
+
+  "recent": {
+    "limit": 5,
+    "hide_repos": ["Shamilimanuel", "Shamilimanuel.github.io"],
+    "show_as": { "Launcher": "Seelie" }
+  }
+}
