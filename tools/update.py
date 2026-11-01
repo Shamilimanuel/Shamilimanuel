@@ -6,9 +6,11 @@ What it rewrites (nothing else is touched):
   art/note.svg                                the note of the day (his own lines in profile.json)
   art/spotlight.svg                           this week's spotlight app
   art/levelling-dark.svg, -light.svg          the levelling bars (profile.json)
+  art/frame-top|bottom|divider-dark|light.svg the frame pictures (style: "frame" in profile.json: teyvat, moon or sumeru)
   art/activity-dark.svg, -light.svg           public activity of the last 31 days (GitHub's public events feed)
   README.md, between pairs of <!--NAME:START--> / <!--NAME:END--> lines:
      BANNER, NOTE, SPOTLIGHT, LEVEL, NOW (profile.json), RECENT and ACTIVITY (public GitHub API),
+     FRAMETOP and FRAMEBOTTOM (the decorative frame round the whole README, from "frame" in profile.json),
      CARDS, LINKS and PROJECTS (profile.json + which repos GitHub says are public: only public repos get a link)
 
 It only writes a file when its content really changed, so the workflow only commits real changes.
@@ -24,14 +26,20 @@ HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 import profile_art as pa
 import profile_blocks as pb
+import frame_art as fa
 
-KEYS = ['BANNER', 'NOTE', 'SPOTLIGHT', 'LEVEL', 'NOW', 'RECENT', 'ACTIVITY', 'CARDS', 'LINKS', 'PROJECTS']
+KEYS = ['FRAMETOP', 'FRAMEBOTTOM', 'BANNER', 'NOTE', 'SPOTLIGHT', 'LEVEL', 'NOW', 'RECENT', 'ACTIVITY', 'CARDS', 'LINKS', 'PROJECTS']
 
 def block_re(key):
     return re.compile(r'(<!--%s:START-->)(.*?)(<!--%s:END-->)' % (key, key), re.S)
 
 def put_block(text, key, content):
     return block_re(key).sub(lambda m: m.group(1) + '\n\n' + content.strip('\n') + '\n\n' + m.group(3), text, count=1)
+
+def outside_blocks(text):
+    """The README with the inside of every marked block cut out (the markers stay)."""
+    for k in KEYS: text = block_re(k).sub(lambda m: m.group(1) + m.group(3), text)
+    return text
 
 def picture(name, alt, attrs):
     return ('<picture>\n  <source media="(prefers-color-scheme: dark)" srcset="art/%s-dark.svg">\n'
@@ -84,6 +92,12 @@ def build(today, prof, repos, events=None):
     info.append('public repos (from %s): %d of %d projects' % (src, sum(1 for p in prof['projects'] if pb.is_public(p['repo'], pub)), len(prof['projects'])))
     blocks['LEVEL'] = '<p align="center">\n' + picture('levelling', 'Levelling up, self-rated: ' + ', '.join('%s level %d of %d' % (s['name'], s['level'], s['max']) for s in prof['levelling']), 'width="560"') + '\n</p>'
     blocks['NOW'] = pa.now_block(prof['now'])
+    fr = prof.get('frame', {}); style = fr.get('style', 'teyvat'); shape = fr.get('shape', 'bookends')
+    if style not in fa.VARIANTS: style = 'teyvat'
+    if shape not in pb.FRAME_SHAPES: shape = 'bookends'
+    files.update(fa.frame_files(style))
+    blocks['FRAMETOP'] = pb.frame_top_block(shape); blocks['FRAMEBOTTOM'] = pb.frame_bottom_block(shape)
+    info.append('frame: %s, %s' % (fa.NAMES[style], shape))
     if repos is not None:
         rc = prof.get('recent', {})
         blocks['RECENT'] = pa.recent_block(repos, today, prof['user'], rc.get('show_as', {}), set(rc.get('hide_repos', [])), rc.get('limit', 5))
@@ -129,6 +143,9 @@ def main(argv=None):
     for line in info: print(' ', line)
     new_readme = readme
     for k, v in blocks.items(): new_readme = put_block(new_readme, k, v)
+    # Safety net: everything OUTSIDE the marked blocks (headings, text, the dividers of the frame) must come out exactly as it went in.
+    if outside_blocks(new_readme) != outside_blocks(readme):
+        print('ERROR: the update would change text outside the marked blocks. Nothing was written.', file=sys.stderr); return 1
     changed = []
     for rel, content in files.items():
         p = root / rel

@@ -2,6 +2,8 @@
   "_about": "This file is PUBLIC. Edit the values below and the daily workflow does the rest. Only write things you would say out loud: no passwords, no real names of other people, nothing from private notes. 'public' is only a fallback: every day the script asks GitHub which repos are really public and uses that. A repo that is private shows its card without a link and is left out of the spotlight.",
   "user": "Shamilimanuel",
 
+  "frame": {"style": "teyvat", "shape": "bookends"},
+
   "now": [
     {
       "app": "Tsukimi",

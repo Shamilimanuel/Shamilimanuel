@@ -15,6 +15,13 @@ It rewrites these, and only saves a commit when something really changed:
 | Levelling bars | "My stack, and what I'm levelling up" | the `levelling` list in `profile.json` |
 | Recently updated | folded list near the bottom | GitHub's public repo list |
 | Public activity graph | under "GitHub stats" | GitHub's public activity feed |
+| The frame (top edge, bottom edge, dividers) | round the whole README | `frame` in `profile.json` |
+
+## The frame
+
+The decorative border round the README is made of pictures, because GitHub removes all styling: a top edge (`art/frame-top-*.svg`), a bottom edge and a thin divider above each section. The robot rewrites the two edges (the `FRAMETOP` and `FRAMEBOTTOM` blocks) and the six pictures every day from `tools/frame_art.py`, so they can't get lost; the dividers are plain lines in the README and are never touched. Before it writes anything, `update.py` checks that every word outside the marked blocks comes out unchanged.
+
+Change the style by editing one line in `profile.json`: `"frame": {"style": "teyvat", "shape": "bookends"}`. Styles: `teyvat` (ornate gold), `moon` (slim moon-silver), `sumeru` (leaves). The shape `boxed` wraps everything in a table but GitHub draws its sides grey and can squeeze the page, so `bookends` is the one to use.
 
 ## Public and private repos
 

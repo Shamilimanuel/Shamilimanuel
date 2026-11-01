@@ -1,3 +1,15 @@
+<!--FRAMETOP:START-->
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/frame-top-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="art/frame-top-light.svg">
+  <img alt="Decorative frame, top edge" src="art/frame-top-light.svg" width="100%">
+</picture>
+</p>
+
+<!--FRAMETOP:END-->
+
 <!--BANNER:START-->
 
 <p align="center">
@@ -44,6 +56,15 @@ Alles wat ik maak heeft dezelfde stijl die ik zelf bedacht heb: **nacht en goud*
 <img alt="A terminal window: whoami prints Shamil, student in the Netherlands, builds Windows apps. ls apps lists my eight apps in their element colours. status prints: look night and gold, learning for real, mood building." src="art/terminal.svg" width="100%">
 </p>
 
+<!--DIVIDER-->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/frame-divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="art/frame-divider-light.svg">
+  <img alt="" src="art/frame-divider-light.svg" width="100%">
+</picture>
+</p>
+
 ## My Windows, but mine
 
 Windows comes with good apps. I'm replacing the ones I use every day with my own, one at a time: File Explorer with **Waypoint**, Task Manager with **Leyline**, Photos with **Tsukimi** and Notepad with **Haravatat**.
@@ -53,6 +74,15 @@ Windows comes with good apps. I'm replacing the ones I use every day with my own
   <source media="(prefers-color-scheme: dark)" srcset="art/strip-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="art/strip-light.svg">
   <img alt="My Windows, but mine: File Explorer becomes Waypoint, Task Manager becomes Leyline, Photos becomes Tsukimi, Notepad becomes Haravatat." src="art/strip-light.svg" width="100%">
+</picture>
+</p>
+
+<!--DIVIDER-->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/frame-divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="art/frame-divider-light.svg">
+  <img alt="" src="art/frame-divider-light.svg" width="100%">
 </picture>
 </p>
 
@@ -73,6 +103,15 @@ Windows comes with good apps. I'm replacing the ones I use every day with my own
 
 <!--NOW:END-->
 
+<!--DIVIDER-->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/frame-divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="art/frame-divider-light.svg">
+  <img alt="" src="art/frame-divider-light.svg" width="100%">
+</picture>
+</p>
+
 ## This week's spotlight
 
 One of my apps gets the stage each week. It changes by itself.
@@ -84,6 +123,15 @@ One of my apps gets the stage each week. It changes by itself.
 </p>
 
 <!--SPOTLIGHT:END-->
+
+<!--DIVIDER-->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/frame-divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="art/frame-divider-light.svg">
+  <img alt="" src="art/frame-divider-light.svg" width="100%">
+</picture>
+</p>
 
 ## My apps, as a party
 
@@ -134,6 +182,15 @@ They are also character cards. The **element** says what kind of app it is, and 
 
 </details>
 
+<!--DIVIDER-->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/frame-divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="art/frame-divider-light.svg">
+  <img alt="" src="art/frame-divider-light.svg" width="100%">
+</picture>
+</p>
+
 ## My stack, and what I'm levelling up
 
 <p align="center">
@@ -155,6 +212,15 @@ They are also character cards. The **element** says what kind of app it is, and 
 </p>
 
 <!--LEVEL:END-->
+
+<!--DIVIDER-->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/frame-divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="art/frame-divider-light.svg">
+  <img alt="" src="art/frame-divider-light.svg" width="100%">
+</picture>
+</p>
 
 ## GitHub stats
 
@@ -182,6 +248,15 @@ They are also character cards. The **element** says what kind of app it is, and 
 </p>
 
 <!--ACTIVITY:END-->
+
+<!--DIVIDER-->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/frame-divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="art/frame-divider-light.svg">
+  <img alt="" src="art/frame-divider-light.svg" width="100%">
+</picture>
+</p>
 
 ## Note of the day
 
@@ -269,6 +344,15 @@ Reveille and Courier have Android apps too (see above).
 
 <!--PROJECTS:END-->
 
+<!--DIVIDER-->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/frame-divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="art/frame-divider-light.svg">
+  <img alt="" src="art/frame-divider-light.svg" width="100%">
+</picture>
+</p>
+
 ## Contact
 
 My portfolio, with pictures of everything: **[shamilimanuel.github.io](https://shamilimanuel.github.io/)**
@@ -276,3 +360,15 @@ My portfolio, with pictures of everything: **[shamilimanuel.github.io](https://s
 ---
 
 *The Genshin-style projects are unofficial, fan-made and not affiliated with or endorsed by HoYoverse. The character cards above are my own drawings in the style of the game, with my own app icons: no game assets.*
+
+<!--FRAMEBOTTOM:START-->
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/frame-bottom-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="art/frame-bottom-light.svg">
+  <img alt="Decorative frame, bottom edge" src="art/frame-bottom-light.svg" width="100%">
+</picture>
+</p>
+
+<!--FRAMEBOTTOM:END-->

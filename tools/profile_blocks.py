@@ -62,3 +62,23 @@ def projects_block(prof, pub):
         parts.append('')
         for e in extra: parts.append(e + '\n')
     return '<details>\n<summary>%s</summary>\n\n%s\n</details>' % (summary, '\n'.join(parts).strip('\n') + '\n')
+
+# ------------------------------------------------------------------ the frame (outside every daily block's content, but rewritten here so it can never get lost)
+FRAME_SHAPES = ('bookends', 'boxed')
+
+def frame_picture(kind, alt):
+    """One frame picture (top, bottom or divider) in GitHub's light/dark pattern, centred, full width."""
+    return ('<p align="center">\n<picture>\n  <source media="(prefers-color-scheme: dark)" srcset="art/frame-%s-dark.svg">\n'
+            '  <source media="(prefers-color-scheme: light)" srcset="art/frame-%s-light.svg">\n'
+            '  <img alt="%s" src="art/frame-%s-light.svg" width="100%%">\n</picture>\n</p>') % (kind, kind, esc(alt), kind)
+
+def frame_top_block(shape='bookends'):
+    pic = frame_picture('top', 'Decorative frame, top edge')
+    return ('<table width="100%">\n<tr>\n<td>\n\n' + pic) if shape == 'boxed' else pic
+
+def frame_bottom_block(shape='bookends'):
+    pic = frame_picture('bottom', 'Decorative frame, bottom edge')
+    return (pic + '\n\n</td>\n</tr>\n</table>') if shape == 'boxed' else pic
+
+def frame_divider():
+    return frame_picture('divider', '')
