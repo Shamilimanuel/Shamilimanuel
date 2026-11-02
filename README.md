@@ -37,14 +37,14 @@
 
 ## About me
 
-I'm a student in the Netherlands who loves **gaming, building PCs and coding**. I'm still a beginner, but I build full apps together with Claude (an AI assistant), and I'm learning to code properly along the way. I work best at night. **I push updates every couple of days.**
+I'm a student in the Netherlands who loves **gaming, building PCs and coding**. I'm still a beginner, but I build full apps together with Claude, and I'm learning to code properly along the way. I work best at night. **I push updates every couple of days.**
 
 Everything I make shares one look I made up: **night and gold**, inspired by Genshin Impact. I write my READMEs in plain English on purpose.
 
 <details>
 <summary>Lees dit in het Nederlands</summary>
 
-Ik ben een student in Nederland die gek is op **gamen, pc's bouwen en programmeren**. Ik ben nog beginner, maar ik bouw complete apps samen met Claude (een AI-assistent) en leer ondertussen echt programmeren. Ik werk het best 's nachts.
+Ik ben een student in Nederland die gek is op **gamen, pc's bouwen en programmeren**. Ik ben nog beginner, maar ik bouw complete apps samen met Claude en leer ondertussen echt programmeren. Ik werk het best 's nachts.
 
 Alles wat ik maak heeft dezelfde stijl die ik zelf bedacht heb: **nacht en goud**, geïnspireerd door Genshin Impact. Ik schrijf mijn README's bewust in gewone, eenvoudige taal.
 
@@ -293,7 +293,7 @@ They are also character cards. The **element** says what kind of app it is, and 
 - I do my best work at **night**.
 - I **build PCs** for fun.
 - I replace Windows apps with **my own**, one at a time.
-- I'm **learning to code**, with Claude, and for real.
+- I'm **learning to code**, with Claude.
 - Every app of mine has an **element** (see the constellation above).
 
 </details>
