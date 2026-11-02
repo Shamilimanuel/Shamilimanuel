@@ -119,7 +119,7 @@ One of my apps gets the stage each week. It changes by itself.
 <!--SPOTLIGHT:START-->
 
 <p align="center">
-<a href="https://github.com/Shamilimanuel/Akasha-Terminal"><img alt="This week&#x27;s spotlight: Akasha Terminal, 4 stars. A calm dashboard for my Genshin account." src="art/spotlight.svg" width="100%"></a>
+<a href="https://github.com/Shamilimanuel/Courier"><img alt="This week&#x27;s spotlight: Courier, 4 stars. Text, clipboard and files between my devices." src="art/spotlight.svg" width="100%"></a>
 </p>
 
 <!--SPOTLIGHT:END-->
@@ -243,7 +243,7 @@ They are also character cards. The **element** says what kind of app it is, and 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="art/activity-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="art/activity-light.svg">
-  <img alt="Public activity on GitHub over the last 31 days: 40 events in total." src="art/activity-light.svg" width="720">
+  <img alt="Public activity on GitHub over the last 31 days: 45 events in total." src="art/activity-light.svg" width="720">
 </picture>
 </p>
 
@@ -263,7 +263,7 @@ They are also character cards. The **element** says what kind of app it is, and 
 <!--NOTE:START-->
 
 <p align="center">
-<img alt="Note of the day: Night is just daytime with better lighting." src="art/note.svg" width="460">
+<img alt="Note of the day: Ship the small thing. Polish it tomorrow." src="art/note.svg" width="460">
 </p>
 
 <!--NOTE:END-->
@@ -275,11 +275,11 @@ They are also character cards. The **element** says what kind of app it is, and 
 
 | Project | What it is | Last updated |
 | --- | --- | --- |
-| [Seelie](https://github.com/Shamilimanuel/Launcher) | Seelie: an Android home-screen launcher with live wallpapers, an A-Z app list, a night... | today |
-| [Terminal](https://github.com/Shamilimanuel/Terminal) | A custom look for Windows Terminal and PowerShell | 2 days ago |
-| [Akasha-Terminal](https://github.com/Shamilimanuel/Akasha-Terminal) | A night-and-gold dashboard for a Genshin Impact account | 2 days ago |
-| [Irminsul](https://github.com/Shamilimanuel/Irminsul) | A night-blue, cream and gold theme for VS Code, with the seven elements as the colours... | 2 days ago |
-| [Custom-Clock](https://github.com/Shamilimanuel/Custom-Clock) | A two-line Windows 11 taskbar clock | 2 days ago |
+| [Seelie](https://github.com/Shamilimanuel/Launcher) | Seelie: an Android home-screen launcher with live wallpapers, an A-Z app list, a night... | yesterday |
+| [Terminal](https://github.com/Shamilimanuel/Terminal) | A custom look for Windows Terminal and PowerShell | 3 days ago |
+| [Akasha-Terminal](https://github.com/Shamilimanuel/Akasha-Terminal) | A night-and-gold dashboard for a Genshin Impact account | 3 days ago |
+| [Irminsul](https://github.com/Shamilimanuel/Irminsul) | A night-blue, cream and gold theme for VS Code, with the seven elements as the colours... | 3 days ago |
+| [Custom-Clock](https://github.com/Shamilimanuel/Custom-Clock) | A two-line Windows 11 taskbar clock | 3 days ago |
 
 <!--RECENT:END-->
 
