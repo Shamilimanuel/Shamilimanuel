@@ -16,7 +16,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="art/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="art/banner-light.svg">
-  <img alt="Shamil: student, gamer, PC builder. Tonight&#x27;s moon: last quarter, under an autumn sky." src="art/banner-light.svg" width="100%">
+  <img alt="Shamil: student, gamer, PC builder. Tonight&#x27;s moon: waning crescent, under an autumn sky." src="art/banner-light.svg" width="100%">
 </picture>
 </p>
 
@@ -243,7 +243,7 @@ They are also character cards. The **element** says what kind of app it is, and 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="art/activity-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="art/activity-light.svg">
-  <img alt="Public activity on GitHub over the last 31 days: 45 events in total." src="art/activity-light.svg" width="720">
+  <img alt="Public activity on GitHub over the last 31 days: 47 events in total." src="art/activity-light.svg" width="720">
 </picture>
 </p>
 
@@ -263,7 +263,7 @@ They are also character cards. The **element** says what kind of app it is, and 
 <!--NOTE:START-->
 
 <p align="center">
-<img alt="Note of the day: Ship the small thing. Polish it tomorrow." src="art/note.svg" width="460">
+<img alt="Note of the day: A tidy folder is a waypoint you can trust." src="art/note.svg" width="460">
 </p>
 
 <!--NOTE:END-->
@@ -275,11 +275,11 @@ They are also character cards. The **element** says what kind of app it is, and 
 
 | Project | What it is | Last updated |
 | --- | --- | --- |
-| [Seelie](https://github.com/Shamilimanuel/Launcher) | Seelie: an Android home-screen launcher with live wallpapers, an A-Z app list, a night... | yesterday |
-| [Terminal](https://github.com/Shamilimanuel/Terminal) | A custom look for Windows Terminal and PowerShell | 3 days ago |
-| [Akasha-Terminal](https://github.com/Shamilimanuel/Akasha-Terminal) | A night-and-gold dashboard for a Genshin Impact account | 3 days ago |
-| [Irminsul](https://github.com/Shamilimanuel/Irminsul) | A night-blue, cream and gold theme for VS Code, with the seven elements as the colours... | 3 days ago |
-| [Custom-Clock](https://github.com/Shamilimanuel/Custom-Clock) | A two-line Windows 11 taskbar clock | 3 days ago |
+| [Seelie](https://github.com/Shamilimanuel/Launcher) | Seelie: an Android home-screen launcher with live wallpapers, an A-Z app list, a night... | 2 days ago |
+| [Terminal](https://github.com/Shamilimanuel/Terminal) | A custom look for Windows Terminal and PowerShell | 4 days ago |
+| [Akasha-Terminal](https://github.com/Shamilimanuel/Akasha-Terminal) | A night-and-gold dashboard for a Genshin Impact account | 4 days ago |
+| [Irminsul](https://github.com/Shamilimanuel/Irminsul) | A night-blue, cream and gold theme for VS Code, with the seven elements as the colours... | 4 days ago |
+| [Custom-Clock](https://github.com/Shamilimanuel/Custom-Clock) | A two-line Windows 11 taskbar clock | 4 days ago |
 
 <!--RECENT:END-->
 
