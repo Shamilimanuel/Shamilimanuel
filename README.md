@@ -263,7 +263,7 @@ They are also character cards. The **element** says what kind of app it is, and 
 <!--NOTE:START-->
 
 <p align="center">
-<img alt="Note of the day: Ask twice before you delete anything." src="art/note.svg" width="460">
+<img alt="Note of the day: Read the error message. It is usually right." src="art/note.svg" width="460">
 </p>
 
 <!--NOTE:END-->
@@ -275,11 +275,11 @@ They are also character cards. The **element** says what kind of app it is, and 
 
 | Project | What it is | Last updated |
 | --- | --- | --- |
-| [Seelie](https://github.com/Shamilimanuel/Launcher) | Seelie: an Android home-screen launcher with live wallpapers, an A-Z app list, a night... | 3 days ago |
-| [Terminal](https://github.com/Shamilimanuel/Terminal) | A custom look for Windows Terminal and PowerShell | 5 days ago |
-| [Akasha-Terminal](https://github.com/Shamilimanuel/Akasha-Terminal) | A night-and-gold dashboard for a Genshin Impact account | 5 days ago |
-| [Irminsul](https://github.com/Shamilimanuel/Irminsul) | A night-blue, cream and gold theme for VS Code, with the seven elements as the colours... | 5 days ago |
-| [Custom-Clock](https://github.com/Shamilimanuel/Custom-Clock) | A two-line Windows 11 taskbar clock | 5 days ago |
+| [Seelie](https://github.com/Shamilimanuel/Launcher) | Seelie: an Android home-screen launcher with live wallpapers, an A-Z app list, a night... | 4 days ago |
+| [Terminal](https://github.com/Shamilimanuel/Terminal) | A custom look for Windows Terminal and PowerShell | 6 days ago |
+| [Akasha-Terminal](https://github.com/Shamilimanuel/Akasha-Terminal) | A night-and-gold dashboard for a Genshin Impact account | 6 days ago |
+| [Irminsul](https://github.com/Shamilimanuel/Irminsul) | A night-blue, cream and gold theme for VS Code, with the seven elements as the colours... | 6 days ago |
+| [Custom-Clock](https://github.com/Shamilimanuel/Custom-Clock) | A two-line Windows 11 taskbar clock | 6 days ago |
 
 <!--RECENT:END-->
 
