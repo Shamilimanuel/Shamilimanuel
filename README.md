@@ -243,7 +243,7 @@ They are also character cards. The **element** says what kind of app it is, and 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="art/activity-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="art/activity-light.svg">
-  <img alt="Public activity on GitHub over the last 31 days: 50 events in total." src="art/activity-light.svg" width="720">
+  <img alt="Public activity on GitHub over the last 31 days: 47 events in total." src="art/activity-light.svg" width="720">
 </picture>
 </p>
 
@@ -263,7 +263,7 @@ They are also character cards. The **element** says what kind of app it is, and 
 <!--NOTE:START-->
 
 <p align="center">
-<img alt="Note of the day: Make it work first. Then make it pretty." src="art/note.svg" width="460">
+<img alt="Note of the day: A good name saves an hour of explaining." src="art/note.svg" width="460">
 </p>
 
 <!--NOTE:END-->
@@ -275,11 +275,11 @@ They are also character cards. The **element** says what kind of app it is, and 
 
 | Project | What it is | Last updated |
 | --- | --- | --- |
-| [Seelie](https://github.com/Shamilimanuel/Launcher) | Seelie: an Android home-screen launcher with live wallpapers, an A-Z app list, a night... | 5 days ago |
-| [Terminal](https://github.com/Shamilimanuel/Terminal) | A custom look for Windows Terminal and PowerShell | 7 days ago |
-| [Akasha-Terminal](https://github.com/Shamilimanuel/Akasha-Terminal) | A night-and-gold dashboard for a Genshin Impact account | 7 days ago |
-| [Irminsul](https://github.com/Shamilimanuel/Irminsul) | A night-blue, cream and gold theme for VS Code, with the seven elements as the colours... | 7 days ago |
-| [Custom-Clock](https://github.com/Shamilimanuel/Custom-Clock) | A two-line Windows 11 taskbar clock | 7 days ago |
+| [Seelie](https://github.com/Shamilimanuel/Launcher) | Seelie: an Android home-screen launcher with live wallpapers, an A-Z app list, a night... | 6 days ago |
+| [Terminal](https://github.com/Shamilimanuel/Terminal) | A custom look for Windows Terminal and PowerShell | 8 days ago |
+| [Akasha-Terminal](https://github.com/Shamilimanuel/Akasha-Terminal) | A night-and-gold dashboard for a Genshin Impact account | 8 days ago |
+| [Irminsul](https://github.com/Shamilimanuel/Irminsul) | A night-blue, cream and gold theme for VS Code, with the seven elements as the colours... | 8 days ago |
+| [Custom-Clock](https://github.com/Shamilimanuel/Custom-Clock) | A two-line Windows 11 taskbar clock | 8 days ago |
 
 <!--RECENT:END-->
 
