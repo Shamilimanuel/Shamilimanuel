@@ -119,7 +119,7 @@ One of my apps gets the stage each week. It changes by itself.
 <!--SPOTLIGHT:START-->
 
 <p align="center">
-<a href="https://github.com/Shamilimanuel/Courier"><img alt="This week&#x27;s spotlight: Courier, 4 stars. Text, clipboard and files between my devices." src="art/spotlight.svg" width="100%"></a>
+<a href="https://github.com/Shamilimanuel/Launcher"><img alt="This week&#x27;s spotlight: Seelie, 4 stars. My own Android home screen, written in Kotlin." src="art/spotlight.svg" width="100%"></a>
 </p>
 
 <!--SPOTLIGHT:END-->
@@ -147,9 +147,9 @@ My apps are a night sky. Each star has the colour of its element, and the five-s
 
 <!--LINKS:START-->
 
-<p align="center">Waypoint &middot; Leyline &middot; <a href="https://github.com/Shamilimanuel/Toolbelt">Toolbelt</a> &middot; <a href="https://github.com/Shamilimanuel/Reveille">Reveille</a> &middot; <a href="https://github.com/Shamilimanuel/Akasha-Terminal">Akasha Terminal</a> &middot; <a href="https://github.com/Shamilimanuel/Courier">Courier</a> &middot; Housecall &middot; <a href="https://github.com/Shamilimanuel/Launcher">Seelie</a></p>
+<p align="center">Waypoint &middot; Leyline &middot; <a href="https://github.com/Shamilimanuel/Toolbelt">Toolbelt</a> &middot; <a href="https://github.com/Shamilimanuel/Reveille">Reveille</a> &middot; <a href="https://github.com/Shamilimanuel/Akasha-Terminal">Akasha Terminal</a> &middot; <a href="https://github.com/Shamilimanuel/Courier">Courier</a> &middot; <a href="https://github.com/Shamilimanuel/Housecall">Housecall</a> &middot; <a href="https://github.com/Shamilimanuel/Launcher">Seelie</a></p>
 
-<p align="center"><sub>Waypoint, Leyline and Housecall are private for now.</sub></p>
+<p align="center"><sub>Waypoint and Leyline are private for now.</sub></p>
 
 <!--LINKS:END-->
 
@@ -164,7 +164,7 @@ They are also character cards. The **element** says what kind of app it is, and 
 <a href="https://github.com/Shamilimanuel/Reveille"><img src="art/card-reveille.svg" width="196" alt="Reveille: Pyro card, 5 stars. Wake or shut down my PC from my phone."></a>
 <a href="https://github.com/Shamilimanuel/Akasha-Terminal"><img src="art/card-akasha.svg" width="196" alt="Akasha Terminal: Cryo card, 4 stars. A calm dashboard for my Genshin account."></a>
 <a href="https://github.com/Shamilimanuel/Courier"><img src="art/card-courier.svg" width="196" alt="Courier: Anemo card, 4 stars. Text, clipboard and files between my devices."></a>
-<img src="art/card-housecall-private.svg" width="196" alt="Housecall: Hydro card, 4 stars. Finds and fixes PC problems. Looks first. Private for now.">
+<a href="https://github.com/Shamilimanuel/Housecall"><img src="art/card-housecall.svg" width="196" alt="Housecall: Hydro card, 4 stars. Finds and fixes PC problems. Looks first."></a>
 <a href="https://github.com/Shamilimanuel/Launcher"><img src="art/card-launcher.svg" width="196" alt="Seelie: Dendro card, 4 stars. My own Android home screen, written in Kotlin."></a>
 </p>
 
@@ -243,7 +243,7 @@ They are also character cards. The **element** says what kind of app it is, and 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="art/activity-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="art/activity-light.svg">
-  <img alt="Public activity on GitHub over the last 31 days: 47 events in total." src="art/activity-light.svg" width="720">
+  <img alt="Public activity on GitHub over the last 31 days: 44 events in total." src="art/activity-light.svg" width="720">
 </picture>
 </p>
 
@@ -263,7 +263,7 @@ They are also character cards. The **element** says what kind of app it is, and 
 <!--NOTE:START-->
 
 <p align="center">
-<img alt="Note of the day: A good name saves an hour of explaining." src="art/note.svg" width="460">
+<img alt="Note of the day: Back up first. Then be brave." src="art/note.svg" width="460">
 </p>
 
 <!--NOTE:END-->
@@ -275,11 +275,11 @@ They are also character cards. The **element** says what kind of app it is, and 
 
 | Project | What it is | Last updated |
 | --- | --- | --- |
-| [Seelie](https://github.com/Shamilimanuel/Launcher) | Seelie: an Android home-screen launcher with live wallpapers, an A-Z app list, a night... | 6 days ago |
-| [Terminal](https://github.com/Shamilimanuel/Terminal) | A custom look for Windows Terminal and PowerShell | 8 days ago |
-| [Akasha-Terminal](https://github.com/Shamilimanuel/Akasha-Terminal) | A night-and-gold dashboard for a Genshin Impact account | 8 days ago |
-| [Irminsul](https://github.com/Shamilimanuel/Irminsul) | A night-blue, cream and gold theme for VS Code, with the seven elements as the colours... | 8 days ago |
-| [Custom-Clock](https://github.com/Shamilimanuel/Custom-Clock) | A two-line Windows 11 taskbar clock | 8 days ago |
+| [Housecall](https://github.com/Shamilimanuel/Housecall) | Finds and fixes PC problems at the client's desk | yesterday |
+| [Seelie](https://github.com/Shamilimanuel/Launcher) | Seelie: an Android home-screen launcher with live wallpapers, an A-Z app list, a night... | 7 days ago |
+| [Terminal](https://github.com/Shamilimanuel/Terminal) | A custom look for Windows Terminal and PowerShell | 9 days ago |
+| [Akasha-Terminal](https://github.com/Shamilimanuel/Akasha-Terminal) | A night-and-gold dashboard for a Genshin Impact account | 9 days ago |
+| [Irminsul](https://github.com/Shamilimanuel/Irminsul) | A night-blue, cream and gold theme for VS Code, with the seven elements as the colours... | 9 days ago |
 
 <!--RECENT:END-->
 
@@ -301,7 +301,7 @@ They are also character cards. The **element** says what kind of app it is, and 
 <!--PROJECTS:START-->
 
 <details>
-<summary>All my projects (10 public, 5 private for now)</summary>
+<summary>All my projects (11 public, 4 private for now)</summary>
 
 ### Apps (Windows)
 
@@ -310,7 +310,7 @@ They are also character cards. The **element** says what kind of app it is, and 
 | Waypoint *(private for now)* | A Genshin-inspired file manager: drives are "levels", folders are waypoints, and the Recycle Bin is called Salvage. Has a disk map and live backgrounds. |
 | Leyline *(private for now)* | A task manager where your programs are a party and the heavy ones get a "boss fight" banner. Also a game overlay and a disk map. |
 | [Toolbelt](https://github.com/Shamilimanuel/Toolbelt) | One app for the everyday things I would otherwise need a dozen websites for. Everything runs on your own PC. |
-| Housecall *(private for now)* | Finds and fixes computer problems. It only looks until you say yes, and nothing is installed. |
+| [Housecall](https://github.com/Shamilimanuel/Housecall) | Finds and fixes computer problems. It only looks until you say yes, and nothing is installed. |
 | [Courier](https://github.com/Shamilimanuel/Courier) | Send text, clipboard and files between your own devices over your own Wi-Fi: no cloud, no account. PC, desktop and Android apps. |
 | [Reveille](https://github.com/Shamilimanuel/Reveille) | Start, shut down, restart, sleep and lock your computer from your phone, over home Wi-Fi. |
 
