@@ -16,7 +16,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="art/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="art/banner-light.svg">
-  <img alt="Shamil: student, gamer, PC builder. Tonight&#x27;s moon: waning crescent, under an autumn sky." src="art/banner-light.svg" width="100%">
+  <img alt="Shamil: student, gamer, PC builder. Tonight&#x27;s moon: new moon, under an autumn sky." src="art/banner-light.svg" width="100%">
 </picture>
 </p>
 
@@ -119,7 +119,7 @@ One of my apps gets the stage each week. It changes by itself.
 <!--SPOTLIGHT:START-->
 
 <p align="center">
-<a href="https://github.com/Shamilimanuel/Launcher"><img alt="This week&#x27;s spotlight: Seelie, 4 stars. My own Android home screen, written in Kotlin." src="art/spotlight.svg" width="100%"></a>
+<a href="https://github.com/Shamilimanuel/Toolbelt"><img alt="This week&#x27;s spotlight: Toolbelt, 5 stars. Every tool I used to need a website for." src="art/spotlight.svg" width="100%"></a>
 </p>
 
 <!--SPOTLIGHT:END-->
@@ -243,7 +243,7 @@ They are also character cards. The **element** says what kind of app it is, and 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="art/activity-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="art/activity-light.svg">
-  <img alt="Public activity on GitHub over the last 31 days: 44 events in total." src="art/activity-light.svg" width="720">
+  <img alt="Public activity on GitHub over the last 31 days: 45 events in total." src="art/activity-light.svg" width="720">
 </picture>
 </p>
 
@@ -263,7 +263,7 @@ They are also character cards. The **element** says what kind of app it is, and 
 <!--NOTE:START-->
 
 <p align="center">
-<img alt="Note of the day: Back up first. Then be brave." src="art/note.svg" width="460">
+<img alt="Note of the day: Learn one small thing every single day." src="art/note.svg" width="460">
 </p>
 
 <!--NOTE:END-->
@@ -275,11 +275,11 @@ They are also character cards. The **element** says what kind of app it is, and 
 
 | Project | What it is | Last updated |
 | --- | --- | --- |
-| [Housecall](https://github.com/Shamilimanuel/Housecall) | Finds and fixes PC problems at the client's desk | yesterday |
-| [Seelie](https://github.com/Shamilimanuel/Launcher) | Seelie: an Android home-screen launcher with live wallpapers, an A-Z app list, a night... | 7 days ago |
-| [Terminal](https://github.com/Shamilimanuel/Terminal) | A custom look for Windows Terminal and PowerShell | 9 days ago |
-| [Akasha-Terminal](https://github.com/Shamilimanuel/Akasha-Terminal) | A night-and-gold dashboard for a Genshin Impact account | 9 days ago |
-| [Irminsul](https://github.com/Shamilimanuel/Irminsul) | A night-blue, cream and gold theme for VS Code, with the seven elements as the colours... | 9 days ago |
+| [Toolbelt](https://github.com/Shamilimanuel/Toolbelt) | One Windows app for everyday tools | yesterday |
+| [Housecall](https://github.com/Shamilimanuel/Housecall) | Finds and fixes PC problems at the client's desk | 2 days ago |
+| [Seelie](https://github.com/Shamilimanuel/Launcher) | Seelie: an Android home-screen launcher with live wallpapers, an A-Z app list, a night... | 8 days ago |
+| [Terminal](https://github.com/Shamilimanuel/Terminal) | A custom look for Windows Terminal and PowerShell | 10 days ago |
+| [Akasha-Terminal](https://github.com/Shamilimanuel/Akasha-Terminal) | A night-and-gold dashboard for a Genshin Impact account | 10 days ago |
 
 <!--RECENT:END-->
 
