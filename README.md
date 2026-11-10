@@ -263,7 +263,7 @@ They are also character cards. The **element** says what kind of app it is, and 
 <!--NOTE:START-->
 
 <p align="center">
-<img alt="Note of the day: Learn one small thing every single day." src="art/note.svg" width="460">
+<img alt="Note of the day: Small apps, big feelings. Pick one and finish it." src="art/note.svg" width="460">
 </p>
 
 <!--NOTE:END-->
@@ -275,11 +275,11 @@ They are also character cards. The **element** says what kind of app it is, and 
 
 | Project | What it is | Last updated |
 | --- | --- | --- |
-| [Toolbelt](https://github.com/Shamilimanuel/Toolbelt) | One Windows app for everyday tools | yesterday |
-| [Housecall](https://github.com/Shamilimanuel/Housecall) | Finds and fixes PC problems at the client's desk | 2 days ago |
-| [Seelie](https://github.com/Shamilimanuel/Launcher) | Seelie: an Android home-screen launcher with live wallpapers, an A-Z app list, a night... | 8 days ago |
-| [Terminal](https://github.com/Shamilimanuel/Terminal) | A custom look for Windows Terminal and PowerShell | 10 days ago |
-| [Akasha-Terminal](https://github.com/Shamilimanuel/Akasha-Terminal) | A night-and-gold dashboard for a Genshin Impact account | 10 days ago |
+| [Toolbelt](https://github.com/Shamilimanuel/Toolbelt) | One Windows app for everyday tools | 2 days ago |
+| [Housecall](https://github.com/Shamilimanuel/Housecall) | Finds and fixes PC problems at the client's desk | 3 days ago |
+| [Seelie](https://github.com/Shamilimanuel/Launcher) | Seelie: an Android home-screen launcher with live wallpapers, an A-Z app list, a night... | 9 days ago |
+| [Terminal](https://github.com/Shamilimanuel/Terminal) | A custom look for Windows Terminal and PowerShell | 11 days ago |
+| [Akasha-Terminal](https://github.com/Shamilimanuel/Akasha-Terminal) | A night-and-gold dashboard for a Genshin Impact account | 11 days ago |
 
 <!--RECENT:END-->
 
