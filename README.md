@@ -243,7 +243,7 @@ They are also character cards. The **element** says what kind of app it is, and 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="art/activity-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="art/activity-light.svg">
-  <img alt="Public activity on GitHub over the last 31 days: 45 events in total." src="art/activity-light.svg" width="720">
+  <img alt="Public activity on GitHub over the last 31 days: 44 events in total." src="art/activity-light.svg" width="720">
 </picture>
 </p>
 
@@ -263,7 +263,7 @@ They are also character cards. The **element** says what kind of app it is, and 
 <!--NOTE:START-->
 
 <p align="center">
-<img alt="Note of the day: Ship the small thing. Polish it tomorrow." src="art/note.svg" width="460">
+<img alt="Note of the day: A tidy folder is a waypoint you can trust." src="art/note.svg" width="460">
 </p>
 
 <!--NOTE:END-->
@@ -275,9 +275,9 @@ They are also character cards. The **element** says what kind of app it is, and 
 
 | Project | What it is | Last updated |
 | --- | --- | --- |
-| [Toolbelt](https://github.com/Shamilimanuel/Toolbelt) | One Windows app for everyday tools | 6 days ago |
-| [Housecall](https://github.com/Shamilimanuel/Housecall) | Finds and fixes PC problems at the client's desk | 7 days ago |
-| [Seelie](https://github.com/Shamilimanuel/Launcher) | Seelie: an Android home-screen launcher with live wallpapers, an A-Z app list, a night... | 13 days ago |
+| [Toolbelt](https://github.com/Shamilimanuel/Toolbelt) | One Windows app for everyday tools | 7 days ago |
+| [Housecall](https://github.com/Shamilimanuel/Housecall) | Finds and fixes PC problems at the client's desk | 8 days ago |
+| [Seelie](https://github.com/Shamilimanuel/Launcher) | Seelie: an Android home-screen launcher with live wallpapers, an A-Z app list, a night... | 2 weeks ago |
 | [Terminal](https://github.com/Shamilimanuel/Terminal) | A custom look for Windows Terminal and PowerShell | 2 weeks ago |
 | [Akasha-Terminal](https://github.com/Shamilimanuel/Akasha-Terminal) | A night-and-gold dashboard for a Genshin Impact account | 2 weeks ago |
 
