@@ -16,7 +16,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="art/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="art/banner-light.svg">
-  <img alt="Shamil: student, gamer, PC builder. Tonight&#x27;s moon: waxing crescent, under an autumn sky." src="art/banner-light.svg" width="100%">
+  <img alt="Shamil: student, gamer, PC builder. Tonight&#x27;s moon: first quarter, under an autumn sky." src="art/banner-light.svg" width="100%">
 </picture>
 </p>
 
@@ -119,7 +119,7 @@ One of my apps gets the stage each week. It changes by itself.
 <!--SPOTLIGHT:START-->
 
 <p align="center">
-<a href="https://github.com/Shamilimanuel/Toolbelt"><img alt="This week&#x27;s spotlight: Toolbelt, 5 stars. Every tool I used to need a website for." src="art/spotlight.svg" width="100%"></a>
+<a href="https://github.com/Shamilimanuel/Reveille"><img alt="This week&#x27;s spotlight: Reveille, 5 stars. Wake or shut down my PC from my phone." src="art/spotlight.svg" width="100%"></a>
 </p>
 
 <!--SPOTLIGHT:END-->
@@ -263,7 +263,7 @@ They are also character cards. The **element** says what kind of app it is, and 
 <!--NOTE:START-->
 
 <p align="center">
-<img alt="Note of the day: A tidy folder is a waypoint you can trust." src="art/note.svg" width="460">
+<img alt="Note of the day: Ask twice before you delete anything." src="art/note.svg" width="460">
 </p>
 
 <!--NOTE:END-->
@@ -275,8 +275,8 @@ They are also character cards. The **element** says what kind of app it is, and 
 
 | Project | What it is | Last updated |
 | --- | --- | --- |
-| [Toolbelt](https://github.com/Shamilimanuel/Toolbelt) | One Windows app for everyday tools | 7 days ago |
-| [Housecall](https://github.com/Shamilimanuel/Housecall) | Finds and fixes PC problems at the client's desk | 8 days ago |
+| [Toolbelt](https://github.com/Shamilimanuel/Toolbelt) | One Windows app for everyday tools | 8 days ago |
+| [Housecall](https://github.com/Shamilimanuel/Housecall) | Finds and fixes PC problems at the client's desk | 9 days ago |
 | [Seelie](https://github.com/Shamilimanuel/Launcher) | Seelie: an Android home-screen launcher with live wallpapers, an A-Z app list, a night... | 2 weeks ago |
 | [Terminal](https://github.com/Shamilimanuel/Terminal) | A custom look for Windows Terminal and PowerShell | 2 weeks ago |
 | [Akasha-Terminal](https://github.com/Shamilimanuel/Akasha-Terminal) | A night-and-gold dashboard for a Genshin Impact account | 2 weeks ago |
