@@ -263,7 +263,7 @@ They are also character cards. The **element** says what kind of app it is, and 
 <!--NOTE:START-->
 
 <p align="center">
-<img alt="Note of the day: Ask twice before you delete anything." src="art/note.svg" width="460">
+<img alt="Note of the day: Read the error message. It is usually right." src="art/note.svg" width="460">
 </p>
 
 <!--NOTE:END-->
@@ -275,8 +275,8 @@ They are also character cards. The **element** says what kind of app it is, and 
 
 | Project | What it is | Last updated |
 | --- | --- | --- |
-| [Toolbelt](https://github.com/Shamilimanuel/Toolbelt) | One Windows app for everyday tools | 8 days ago |
-| [Housecall](https://github.com/Shamilimanuel/Housecall) | Finds and fixes PC problems at the client's desk | 9 days ago |
+| [Toolbelt](https://github.com/Shamilimanuel/Toolbelt) | One Windows app for everyday tools | 9 days ago |
+| [Housecall](https://github.com/Shamilimanuel/Housecall) | Finds and fixes PC problems at the client's desk | 10 days ago |
 | [Seelie](https://github.com/Shamilimanuel/Launcher) | Seelie: an Android home-screen launcher with live wallpapers, an A-Z app list, a night... | 2 weeks ago |
 | [Terminal](https://github.com/Shamilimanuel/Terminal) | A custom look for Windows Terminal and PowerShell | 2 weeks ago |
 | [Akasha-Terminal](https://github.com/Shamilimanuel/Akasha-Terminal) | A night-and-gold dashboard for a Genshin Impact account | 2 weeks ago |
