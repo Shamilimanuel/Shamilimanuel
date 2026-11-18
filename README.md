@@ -16,7 +16,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="art/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="art/banner-light.svg">
-  <img alt="Shamil: student, gamer, PC builder. Tonight&#x27;s moon: first quarter, under an autumn sky." src="art/banner-light.svg" width="100%">
+  <img alt="Shamil: student, gamer, PC builder. Tonight&#x27;s moon: waxing gibbous, under an autumn sky." src="art/banner-light.svg" width="100%">
 </picture>
 </p>
 
@@ -263,7 +263,7 @@ They are also character cards. The **element** says what kind of app it is, and 
 <!--NOTE:START-->
 
 <p align="center">
-<img alt="Note of the day: Read the error message. It is usually right." src="art/note.svg" width="460">
+<img alt="Note of the day: Make it work first. Then make it pretty." src="art/note.svg" width="460">
 </p>
 
 <!--NOTE:END-->
@@ -275,8 +275,8 @@ They are also character cards. The **element** says what kind of app it is, and 
 
 | Project | What it is | Last updated |
 | --- | --- | --- |
-| [Toolbelt](https://github.com/Shamilimanuel/Toolbelt) | One Windows app for everyday tools | 9 days ago |
-| [Housecall](https://github.com/Shamilimanuel/Housecall) | Finds and fixes PC problems at the client's desk | 10 days ago |
+| [Toolbelt](https://github.com/Shamilimanuel/Toolbelt) | One Windows app for everyday tools | 10 days ago |
+| [Housecall](https://github.com/Shamilimanuel/Housecall) | Finds and fixes PC problems at the client's desk | 11 days ago |
 | [Seelie](https://github.com/Shamilimanuel/Launcher) | Seelie: an Android home-screen launcher with live wallpapers, an A-Z app list, a night... | 2 weeks ago |
 | [Terminal](https://github.com/Shamilimanuel/Terminal) | A custom look for Windows Terminal and PowerShell | 2 weeks ago |
 | [Akasha-Terminal](https://github.com/Shamilimanuel/Akasha-Terminal) | A night-and-gold dashboard for a Genshin Impact account | 2 weeks ago |
